@@ -14,8 +14,9 @@ dist/
 build/
 frontend/dist/
 
-# Logs
+# Logs & Local SQLite preview DB
 *.log
+*.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
